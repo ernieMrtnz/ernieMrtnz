@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ernieMrtnz
-- 👀 I’m interested in learning about how things work and if they could be improved on.
-- 🌱 I’m currently learning ruby and react
+- 👀 I’m interested in learning about how things work and how they could be improved.
+- 🌱 Software Engineer @grnhse
 
 <!---
 ernieMrtnz/ernieMrtnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
