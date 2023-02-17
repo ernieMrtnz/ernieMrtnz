@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ernieMrtnz
 - 👀 I’m interested in learning about how things work and how they could be improved.
-- 🌱 Software Engineer @grnhse
+- 🌱 Software Engineer @ [Greenhouse Software](https://github.com/grnhse)
 
 <!---
 ernieMrtnz/ernieMrtnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
